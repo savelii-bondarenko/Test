@@ -14,7 +14,7 @@ import app.data_op as crud
 load_dotenv()
 
 api_key = os.getenv("MISTRAL_API_KEY")
-MODEL_NAME = "mistral-small-latest"
+MODEL_NAME = "mistral-tiny"
 
 
 if not api_key:
