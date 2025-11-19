@@ -16,7 +16,7 @@ mistralai==1.9.11
 numpy==2.3.5
 packaging==25.0
 pluggy==1.6.0
-psycopg2==2.9.11
+psycopg2-binary==2.9.11
 pydantic==2.12.4
 pydantic_core==2.41.5
 Pygments==2.19.2
